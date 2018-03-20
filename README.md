@@ -18,4 +18,5 @@ To be in touch please:
 * [Cite my papers](https://scholar.google.de/citations?user=wXSZ4ogAAAAJ&hl=en)
 
 ¹ you can find an overview of the Google Colab project, useful examples, and using scenarious [here](https://colab.research.google.com/notebooks/welcome.ipynb).
+
 ² for a quick start with the Google Colab without reading any documentation, please watch [an introductory video](https://youtu.be/xdbkayi0PA4).
